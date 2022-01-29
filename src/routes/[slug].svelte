@@ -16,7 +16,7 @@
 </script>
 
 <svelte:head>
-  <title>JCD Blog | Welcome</title>
+  <title>JCD Blog | {page.title}</title>
 </svelte:head>
 
 <h1 class="text-4xl font-semibold mb-5">{page.title}</h1>
