@@ -13,7 +13,6 @@
 
 <script>
   export let post
-
   const {
     title,
     date,

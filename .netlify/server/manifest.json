@@ -1,0 +1,91 @@
+{
+  ".svelte-kit/build/app.js": {
+    "file": "app.js",
+    "src": ".svelte-kit/build/app.js",
+    "isEntry": true,
+    "imports": [
+      "_index-3f5baa8b.js"
+    ]
+  },
+  "src/routes/pages/index.json.js": {
+    "file": "entries/endpoints/pages/index.json.js",
+    "src": "src/routes/pages/index.json.js",
+    "isEntry": true,
+    "imports": [
+      "_graphql-client-be1a3fb8.js"
+    ]
+  },
+  "src/routes/pages/[slug].json.js": {
+    "file": "entries/endpoints/pages/_slug_.json.js",
+    "src": "src/routes/pages/[slug].json.js",
+    "isEntry": true,
+    "imports": [
+      "_graphql-client-be1a3fb8.js"
+    ]
+  },
+  "src/routes/posts/index.json.js": {
+    "file": "entries/endpoints/posts/index.json.js",
+    "src": "src/routes/posts/index.json.js",
+    "isEntry": true,
+    "imports": [
+      "_graphql-client-be1a3fb8.js"
+    ]
+  },
+  "src/routes/posts/[slug].json.js": {
+    "file": "entries/endpoints/posts/_slug_.json.js",
+    "src": "src/routes/posts/[slug].json.js",
+    "isEntry": true,
+    "imports": [
+      "_graphql-client-be1a3fb8.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-3f5baa8b.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout.svelte-71696a37.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/pages/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-3f5baa8b.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-3f5baa8b.js"
+    ]
+  },
+  "src/routes/posts/[slug].svelte": {
+    "file": "entries/pages/posts/_slug_.svelte.js",
+    "src": "src/routes/posts/[slug].svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-3f5baa8b.js"
+    ]
+  },
+  "src/routes/[slug].svelte": {
+    "file": "entries/pages/_slug_.svelte.js",
+    "src": "src/routes/[slug].svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-3f5baa8b.js"
+    ]
+  },
+  "_index-3f5baa8b.js": {
+    "file": "chunks/index-3f5baa8b.js"
+  },
+  "_graphql-client-be1a3fb8.js": {
+    "file": "chunks/graphql-client-be1a3fb8.js"
+  }
+}
